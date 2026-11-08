@@ -1,0 +1,14 @@
+# R session files
+.Rhistory
+.RData
+.RDataTmp
+.Ruserdata
+
+# Temporary output and logs
+*.Rout
+.Rproj.user/
+
+# System / IDE
+.DS_Store
+.idea/
+.vscode/
